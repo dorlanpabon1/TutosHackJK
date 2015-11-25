@@ -1,0 +1,15 @@
+#rojo{
+	background-color:  red;
+	padding: 10px;
+	width: 400px;
+	text-align: center;
+
+}
+#verde{
+	background-color:  green;
+	color: white;
+	padding: 5px;
+	width: 200px;
+	margin: 1px auto;
+	
+}
